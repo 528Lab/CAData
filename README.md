@@ -9,4 +9,4 @@ Two cloud API datasets collected from ProgrammableWeb and Huawei AppGallery sepe
 These datasets are collected and shared by 528Lab, Yanshan University. 
 
 ## Citation
-TBD
+X. Liu, M. Sun, W. Chen, D. You, L. Shen and Z. Chen, "Complementarity Analysis of Cloud API Ecosystems: An Empirical Study on ProgrammableWeb and Huawei AppGallery Datasets," 2024 IEEE International Conference on Web Services (ICWS), Shenzhen, China, 2024, pp. 364-370
